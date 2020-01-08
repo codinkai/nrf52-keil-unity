@@ -5,8 +5,9 @@ framework.
 
 ## Init
 
-The test framework Unity is located in the lib directory as a git submoule. 
-Therefore the following commands need to be executed for initialization.
+The test framework Unity and the nrfx library are located in the lib directory
+as a git submoule. Therefore the following commands need to be executed 
+for initialization.
 
   git submodule init
   git submodule update
